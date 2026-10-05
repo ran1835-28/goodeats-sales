@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C001",
+    "customerName": "Acme Food LLC",
+    "phone": "555-0142",
+    "lastContact": "2026-09-15",
+    "totalOrders": 8,
+    "dueForCall": "yes",
+    "notes": "Prefers Friday lunch events"
+  },
+  {
+    "id": "C002",
+    "customerName": "Metro Tech Park",
+    "phone": "555-0188",
+    "lastContact": "2026-10-01",
+    "totalOrders": 12,
+    "dueForCall": "no",
+    "notes": "Monthly catering partner"
+  },
+  {
+    "id": "C003",
+    "customerName": "Downtown Festival Org",
+    "phone": "555-0199",
+    "lastContact": "2026-08-20",
+    "totalOrders": 3,
+    "dueForCall": "yes",
+    "notes": "Follow up on weekend permits"
+  },
+  {
+    "id": "C004",
+    "customerName": "Campus Event Committee",
+    "phone": "555-0133",
+    "lastContact": "2026-10-04",
+    "totalOrders": 5,
+    "dueForCall": "no",
+    "notes": "Booked for upcoming homecoming"
+  }
+]
